@@ -1,0 +1,38 @@
+.body_todo{
+  background-color: skyblue;
+}
+
+.h2_todo{
+  display: flex;
+  justify-content:  center;
+  margin-top: 15px;
+}
+
+.inputs{
+  display: flex;
+  justify-content:  center;
+  margin-top: 15px;
+}
+
+.list{
+  align-content: center;
+  margin-top: 15px;
+  gap: 15px;
+  margin-left: 30px;
+
+}
+
+.button_todo{
+  border-radius: 10px;
+  margin-left: 10px;
+  margin-top: 10px;
+  max-width:150px;
+  min-width: 30px;
+}
+
+.span_todo{
+  margin-left: 10px;
+}
+.strikethrough {
+  text-decoration: line-through;
+}

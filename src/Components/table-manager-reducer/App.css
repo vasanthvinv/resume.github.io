@@ -1,0 +1,52 @@
+.head{
+    background-color: rgba(128, 128, 128, 0.455);
+    border: 2px solid  rgba(128, 128, 128, 0.455);
+  }
+  .footter{
+    margin-top: 20px;
+    border: 2px solid rgba(0, 0, 0, 0.148);
+    width: 300px;
+    height: 70px;
+    box-shadow: rgb(174, 20, 20);
+  }
+  .button_table_manager{
+    background-color: rgb(0, 0, 0);
+    color: aliceblue;
+    margin-left: 20px;
+    margin-top: 20px;
+    padding: auto;
+  }
+  .table_table_manager{
+    border: 2px solid  rgba(128, 128, 128, 0.455);
+  }
+  .input_table_manager{
+    outline: none;
+    border: none;
+  }
+  
+  .body_table_manager{
+    margin-left: 20px;
+  }
+  .span_table_manager{
+    position: 'relative';
+    z-index:  10;
+    background-color: 'white';
+   }
+
+  .detail{
+    border: 2px solid  rgba(128, 128, 128, 0.455);
+    display: flex;
+    justify-content: space-between;
+  }
+  .div-alert{
+    border: 2px solid  rgba(128, 128, 128, 0.803);
+    width: 200px;
+    height: 110px;
+    margin-top: 100px;
+    margin-left: 50%;
+    padding-left: 10px;
+    z-index: 5;
+  }
+  .div-alert button{
+  margin-left: 40px;
+  }
